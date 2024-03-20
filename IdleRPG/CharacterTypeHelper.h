@@ -1,0 +1,6 @@
+﻿#pragma once
+
+namespace CharacterTypeHelper
+{
+  enum class CharacterType {Artificer, Barbarian, Bard, Cleric, Druid, Fighter, Monk, Paladin, Ranger, Rogue, Sorcerer, Warlock, Wizard};
+}
